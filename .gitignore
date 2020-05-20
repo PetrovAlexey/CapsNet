@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/src/datasets/etl8/ETL8B2C1
+/src/datasets/etl8/ETL8B2C2
+/src/files/MNIST
+/src/.vs
